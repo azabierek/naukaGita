@@ -3,3 +3,4 @@ siema tu adi
 nieprawda bla bla bla
 siema tu miki 3 linia
 linia 5_1
+linia 5_2
